@@ -3,9 +3,9 @@
 .. image:: https://github.com/lsst/RDO-151/workflows/CI/badge.svg
    :target: https://github.com/lsst/RDO-151/actions/
 
-#########################
-Projet Publication Policy
-#########################
+####################################################
+NSF-DOE Vera C. Rubin Observatory Publication Policy
+####################################################
 
 **RDO-151**
 
